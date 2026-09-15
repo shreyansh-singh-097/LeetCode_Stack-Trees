@@ -46,4 +46,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Array
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/0239-sliding-window-maximum) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/0239-sliding-window-maximum) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
