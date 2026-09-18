@@ -78,4 +78,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/0239-sliding-window-maximum) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
