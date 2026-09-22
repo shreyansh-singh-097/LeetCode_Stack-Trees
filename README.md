@@ -90,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/0020-valid-parentheses) |
+## Database
+|  |
+| ------- |
+| [0511-game-play-analysis-i](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/0511-game-play-analysis-i) |
 <!---LeetCode Topics End-->
