@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/0239-sliding-window-maximum) |
+| [2965-find-missing-and-repeated-values](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/2965-find-missing-and-repeated-values) |
 ## Queue
 |  |
 | ------- |
@@ -94,4 +95,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0511-game-play-analysis-i](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/0511-game-play-analysis-i) |
+## Hash Table
+|  |
+| ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/2965-find-missing-and-repeated-values) |
+## Math
+|  |
+| ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/2965-find-missing-and-repeated-values) |
+## Matrix
+|  |
+| ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
