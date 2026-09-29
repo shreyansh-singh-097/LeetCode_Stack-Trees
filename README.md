@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/0435-non-overlapping-intervals) |
 | [2965-find-missing-and-repeated-values](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/2965-find-missing-and-repeated-values) |
 ## Queue
 |  |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/0435-non-overlapping-intervals) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -136,4 +138,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/0347-top-k-frequent-elements) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/0435-non-overlapping-intervals) |
+## Greedy
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/0435-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
