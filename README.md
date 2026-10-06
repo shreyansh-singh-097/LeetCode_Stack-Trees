@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0511-game-play-analysis-i](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/0511-game-play-analysis-i) |
+| [0607-sales-person](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/0607-sales-person) |
 ## Hash Table
 |  |
 | ------- |
