@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Stack
 |  |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Database
 |  |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/0881-boats-to-save-people) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Two Pointers
 |  |
 | ------- |
