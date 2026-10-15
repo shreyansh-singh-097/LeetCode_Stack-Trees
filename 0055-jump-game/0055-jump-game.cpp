@@ -7,11 +7,8 @@ public:
             if (i > maxReach) {
                 return false;
             }
-            maxReach = max(maxReach, i + nums[i]);     
-            if (maxReach >= n - 1) {
-                return true;
-            }
-        }       
+            maxReach = max(maxReach, i + nums[i]);
+            }       
         return true;
     }
 };
