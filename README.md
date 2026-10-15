@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/0347-top-k-frequent-elements) |
 ## Monotonic Queue
 |  |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/0229-majority-element-ii) |
+| [0295-find-median-from-data-stream](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/0455-assign-cookies) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/0011-container-with-most-water) |
+| [0295-find-median-from-data-stream](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/0881-boats-to-save-people) |
 ## Timsort
@@ -207,4 +210,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0495-teemo-attacking](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/0495-teemo-attacking) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
