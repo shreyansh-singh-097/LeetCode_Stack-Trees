@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/0055-jump-game) |
 | [0128-longest-consecutive-sequence](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/0128-longest-consecutive-sequence) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/0229-majority-element-ii) |
@@ -171,12 +172,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/0678-valid-parenthesis-string) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/0678-valid-parenthesis-string) |
