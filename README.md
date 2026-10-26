@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0450-delete-node-in-a-bst](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/0455-assign-cookies) |
 | [0495-teemo-attacking](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/0495-teemo-attacking) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
@@ -160,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/0229-majority-element-ii) |
 | [0295-find-median-from-data-stream](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/0881-boats-to-save-people) |
