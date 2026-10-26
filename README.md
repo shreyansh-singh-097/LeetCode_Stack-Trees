@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/0938-range-sum-of-bst) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/0938-range-sum-of-bst) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/0938-range-sum-of-bst) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -72,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/0495-teemo-attacking) |
 | [0860-lemonade-change](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/0881-boats-to-save-people) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2965-find-missing-and-repeated-values](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/2965-find-missing-and-repeated-values) |
 ## Queue
 |  |
@@ -111,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
@@ -221,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/0295-find-median-from-data-stream) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
