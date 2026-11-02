@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [2235-add-two-integers](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/2235-add-two-integers) |
 | [2965-find-missing-and-repeated-values](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
