@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/0881-boats-to-save-people) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2965-find-missing-and-repeated-values](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/2965-find-missing-and-repeated-values) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Queue
 |  |
 | ------- |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2235-add-two-integers](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/2235-add-two-integers) |
 | [2965-find-missing-and-repeated-values](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/2965-find-missing-and-repeated-values) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/shreyansh-singh-097/LeetCode_Stack-Trees/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Matrix
 |  |
 | ------- |
